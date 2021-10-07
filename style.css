@@ -38,6 +38,13 @@ body {
   outline-offset: 0.5rem;
 }
 
+.fullstack {
+  background: #f1f1f1;
+  text-align: center;
+  padding: 3rem;
+  line-height: 1.8;
+  color: #666666;
+}
 @media screen and (min-width: 700px) {
   .clarusway {
     padding: 2rem;
@@ -48,13 +55,6 @@ body {
     outline: 0.5rem inset purple;
     outline-offset: 1rem;
   }
-}
-.fullstack {
-  background: #f1f1f1;
-  text-align: center;
-  padding: 3rem;
-  line-height: 1.8;
-  color: #666666;
 }
 .fullstack p {
   margin-top: 1rem;
