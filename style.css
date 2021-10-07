@@ -86,10 +86,11 @@ body {
   font-size: 2rem;
   padding: 0.5rem;
   text-transform: capitalize;
+  text-align: center;
   border-top-left-radius: 0.5rem;
   border-bottom-right-radius: 0.5rem;
   outline: 0.2rem inset purple;
-  outline-offset: 0.16rem;
+  outline-offset: 0.15rem;
 }
 
 .why {
