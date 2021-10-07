@@ -91,6 +91,7 @@ body {
   border-bottom-right-radius: 0.5rem;
   outline: 0.2rem inset purple;
   outline-offset: 0.15rem;
+  /*  */
 }
 
 .why {
